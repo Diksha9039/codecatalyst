@@ -1,0 +1,5 @@
+{
+  "name": " MythBuster AI",
+  "description": "A multimodal fact-check assistant that detects misinformation and verifies claims from screenshots and images using Gemini.",
+  "requestFramePermissions": []
+}
